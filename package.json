@@ -1,0 +1,19 @@
+{
+  "name": "vorpal-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "vorpal",
+    "app"
+  ],
+  "author": "Dhaval Vyas",
+  "license": "MIT",
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
